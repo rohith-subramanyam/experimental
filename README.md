@@ -1,2 +1,2 @@
-# experimental
-main/experimental
+# sandbox
+A place for experimental stuff
